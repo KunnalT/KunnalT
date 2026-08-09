@@ -39,7 +39,7 @@
 ### 🗄️ Database & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
 ### 🔧 Tools
