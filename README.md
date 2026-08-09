@@ -45,26 +45,34 @@
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,expo" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Money Monk — Personal Finance Tracker
+### 💰 Money Monk Mobile — Personal Finance Tracker(Mobile version)
 
-A personal finance management application designed to help users track income, expenses, savings and budgets.
+A personal finance management application designed to help users track income, expenses, savings, budgets and SMS based Expense Tracking.
 
 **Tech:** React • TypeScript • Tailwind CSS • Recharts
 
 ---
 
-### 💳 Cash Clarity — Personal Finance Assistant
+### 💰 Money Monk — Personal Finance Tracker
 
-A finance-focused application for managing transactions, budgets, savings goals and financial analytics.
+A personal finance management application designed to help users track income, expenses, savings and budgets.
 
 **Tech:** React • TypeScript • Supabase • Recharts
+
+
+---
+
+### 🏥 Patient Registration System
+A desktop-based system built with Java Swing and Supabase to digitize patient registration, enabling fast record entry, instant search, and real-time cloud data persistence.
+
+**Tech:** Java • Java Swing • Supabase • JDBC
 
 ---
 
